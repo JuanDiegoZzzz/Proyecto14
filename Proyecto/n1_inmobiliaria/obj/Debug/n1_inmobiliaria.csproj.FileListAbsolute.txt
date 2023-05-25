@@ -1,0 +1,15 @@
+F:\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\n1_inmobiliaria.exe.config
+F:\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\n1_inmobiliaria.exe
+F:\n1_inmobiliaria\n1_inmobiliaria\bin\Debug\n1_inmobiliaria.pdb
+F:\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.csproj.AssemblyReference.cache
+F:\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.Form1.resources
+F:\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.Properties.Resources.resources
+F:\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.sourse.interfaz.interfazInmobiliaria.resources
+F:\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.csproj.GenerateResource.cache
+F:\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.csproj.CoreCompileInputs.cache
+F:\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.exe
+F:\n1_inmobiliaria\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.pdb
+C:\Users\Juan Diego\Desktop\D-Nueva-carpeta-3-n1_inmobiliaria-main\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.csproj.AssemblyReference.cache
+C:\Users\Juan Diego\Desktop\D-Nueva-carpeta-3-n1_inmobiliaria-main\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan Diego\Desktop\D-Nueva-carpeta-3-n1_inmobiliaria-main\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.exe
+C:\Users\Juan Diego\Desktop\D-Nueva-carpeta-3-n1_inmobiliaria-main\n1_inmobiliaria\obj\Debug\n1_inmobiliaria.pdb
